@@ -1,4 +1,4 @@
-# кол-во <= 1000 и кратны 7
+# коммент
 n = 0
 a = int(input())
 while a != 0:
@@ -6,4 +6,4 @@ while a != 0:
         n = n + 1
     a = int(input())
     
-print(n)
+print('количество:', n)
